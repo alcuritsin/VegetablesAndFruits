@@ -3,6 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegetablesAndFruits", "VegetablesAndFruits\VegetablesAndFruits.csproj", "{91A241F1-DA9E-4CF1-A88B-B85965495ADF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{54079863-8336-4FE5-AA33-67B38DDF5C72}"
+ProjectSection(SolutionItems) = preProject
+	request.sql = request.sql
+EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{A1FFF83A-0C69-447C-8707-8FEBC5C3F223}"
 EndProject
